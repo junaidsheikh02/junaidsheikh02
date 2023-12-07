@@ -1,0 +1,17 @@
+div {
+    height: 300px;
+    width: 300px;
+    background-color: #333; /* Fallback color */
+    background-image: url(natural.jpg);
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right: 0px;
+    top: 50px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    transition: background-color 0.3s ease; /* Transition property for background-color */
+}
+
+div:hover {
+    background-color: #555; /* Background color change on hover */
+}

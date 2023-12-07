@@ -1,0 +1,46 @@
+h2 {
+    color: yellow;
+    background-color: pink;
+}
+body {
+    background-color: white;
+}
+p {
+    text-align: center;
+}
+h4{
+    background-color: blue;
+    color:pink;
+}
+button{
+    background-color: green;
+}
+h1{
+    background-color: crimson;
+    color: darkviolet;
+    font-weight: 200;
+}
+h2{
+    font-weight: 400;
+}
+h3{
+    background-color: firebrick;
+    color: violet;
+    font-weight: 700;
+}
+h4{
+    font-weight: 900;
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+#one{
+    font-family: 'Segoe UI', Tahoma,  Verdana, sans-serif;
+}
+#two{
+    font-family: Arial, Helvetica, sans-serif;
+
+}

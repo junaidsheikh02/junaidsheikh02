@@ -1,0 +1,40 @@
+/* Navbar styles */
+.Navbar {
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Navbar a {
+    text-decoration: none;
+    color: red;
+}
+
+.Navbar li {
+    list-style-type: none;   
+    background-color: white;
+}
+
+/* Outer container styles */
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Inner box styles */
+.inner {
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+}
+
+/* Responsive design example (adjust as needed) */
+@media (max-width: 600px) {
+    .Navbar {
+        flex-direction: column; /* Stack items vertically on smaller screens */
+    }
+}

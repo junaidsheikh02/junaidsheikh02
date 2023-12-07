@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: blueviolet;
+    color: #fff; /* White text on blueviolet background for better contrast */
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.circle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, h2 {
+    background-color: #42f5e9;
+    border-radius: 50%; /* Make the container circular */
+    padding: 20px;
+    margin: 10px 0;
+    width: 80%; /* Set a percentage width to maintain a circular shape */
+    overflow: hidden; /* Prevent text overflow */
+}
+
+h1 {
+    color: #155799; /* Adjusted text color for better contrast */
+    font-size: 17px; /* Adjusted font size */
+    line-height: 1.4; /* Adjusted line height */
+}
+
+h2 {
+    color: #333;
+    font-size: 16px; /* Adjusted font size */
+    line-height: 1.4; /* Adjusted line height */
+}
