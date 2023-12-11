@@ -1,108 +1,63 @@
+
 <!DOCTYPE html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Panaverse Dao Live Courses Online Learning</title>
-</head>
-<body>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
 
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar | Panaverse</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Getting Ready for the Next Generation and Future of the Internet - Join a 13 Trillion Dollar Industry with 5 Billion Users" />
+<meta property="og:description" content="Getting Ready for the Next Generation and Future of the Internet - Join a 13 Trillion Dollar Industry with 5 Billion Users" />
+<link rel="canonical" href="https://www.panaverse.co/" />
+<meta property="og:url" content="https://www.panaverse.co/" />
+<meta property="og:site_name" content="Panaverse" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Getting Ready for the Next Generation and Future of the Internet - Join a 13 Trillion Dollar Industry with 5 Billion Users","headline":"Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar","name":"Panaverse","url":"https://www.panaverse.co/"}</script>
+<!-- End Jekyll SEO tag -->
 
-  <div className="flex rounded-full-images bg-transparent grid-cols-[200px,repeat(auto-fill,minmax(15%,100px)),300px]">   
-    <img src="https://scontent.fkhi21-1.fna.fbcdn.net/v/t39.30808-6/348423107_1288591485110522_1411280067299072936_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=783fdb&_nc_ohc=gt7-paclpgwAX8tVYGx&_nc_ht=scontent.fkhi21-1.fna&oh=00_AfAMr_tf23RcABFfx8q5Ba1LHsGSw3LOwd4n2EEZTZBBTg&oe=657B86FD" alt="Building an Ecommerce Website:Core Features with Sanity, Drizzle, Postgres and Stripe | Part 1">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="/assets/css/style.css?v=29dc9ce8ae482314298ad31dc4c17973cd11ffb7">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-    <h2><b><i><u><a href="https://www.youtube.com/watch?v=Wa2UJbPo960">Governor Sindh IT Course kb se start hoga |kia certificate sbko milenge |online classes kse hongi
-    </a></u></i></b></h2>
-</div>
-  
-  
-  
-  <div className="flex rounded-full-images bg-transparent grid-cols-[200px,repeat(auto-fill,minmax(15%,100px)),300px]">  
-    
-    <img src="https://scontent.fkhi21-1.fna.fbcdn.net/v/t39.30808-6/367740698_10231441839610036_2531602796922185090_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=173fa1&_nc_ohc=-6Xrl1K1pCoAX_q165G&_nc_oc=AQkHewzJEbHam1p-_XCf2oarf7sBdEsVVUHxLNhfn75ge-rMQ3nDAAGL2G7D3dLm4T4&_nc_ht=scontent.fkhi21-1.fna&oh=00_AfDk3UH82ijoMDu2ttIBXN5_Lojr2AesZbV7_yCjKPRcaA&oe=657C2407" alt="Building an Ecommerce Website:Core Features with Sanity, Drizzle, Postgres and Stripe | Part 1">
-
-    <h1><b><i><u><a href="https://www.panaverse.co/" >Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar</a></u></i></b></h1>
-      
-  </div>
-  
-  
-
-  
-      
-  <div className="flex rounded-full-images bg-transparent grid-cols-[200px,repeat(auto-fill,minmax(15%,100px)),300px]">  
-
-  <img src="https://scontent.fkhi21-1.fna.fbcdn.net/v/t39.30808-6/408926287_122110282670136453_3600142044327303842_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=3635dc&_nc_ohc=oCGEb56hLboAX_8namp&_nc_ht=scontent.fkhi21-1.fna&oh=00_AfCPr6EcIVGEaKO-RyZfLvu1m-P8Be38C5SwWGWgIbF_dQ&oe=657C69E8" alt="Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar">
-
-  <h1><b><i><u><a href="https://www.youtube.com/watch?v=qYU5RvZT1EE">"Certified AI, Web3 & Metaverse" Developer & Solopreneur Program. Visit www.piaic.org/ and Apply Now</a></u></i></b></h1>
+<!-- Setup Google Analytics -->
 
 
 
-    </div>
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
 
+<!-- end custom head snippets -->
 
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-
-
-
-    <div></div>
-    <div></div>
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-    <div></div>  
-
-  </div>
-
-         
-      
-      <a href="https://www.youtube.com/shorts/BMuFslEvIww" rel="stylesheet" text/css>             
-        <h1 class="project-name"><b><i><u><a href="https://www.youtube."</u></i></b></h1>
-     </a>
-
-     <a href="https://www.youtube.com/watch?v=6_q_LHq85Cs" rel="stylesheet" text/css>            
-         <h2 class="project-name">Getting Ready for the Next Generation and Future of the Internet - Join a 13 Trillion Dollar Industry with 5 Billion Users
-         </h2>
-     </a>
-     
-
-    </div>
-
-       
-    
-    
-    
-  
-
-
-
-
-      
-
-
-
-  
-
-
-    
-    
-
-
-            
-
-
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar</h1>
+      <h2 class="project-tagline">Getting Ready for the Next Generation and Future of the Internet - Join a 13 Trillion Dollar Industry with 5 Billion Users</h2>
       
       
-    
+    </header>      
+      <h1 class="project-name">Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar</h1>
+      <h2 class="project-tagline">Getting Ready for the Next Generation and Future of the Internet - Join a 13 Trillion Dollar Industry with 5 Billion Users</h2>
+      
+      
+    </header>      
+      <h1 class="project-name">Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar</h1>
+      <h2 class="project-tagline">Getting Ready for the Next Generation and Future of the Internet - Join a 13 Trillion Dollar Industry with 5 Billion Users</h2>
+      
+      
+    </header>
 
     <main id="content" class="main-content" role="main">
       <h1 id="certified-web-30-and-metaverse-developer-a-nationwide-program-in-karachi-lahore-islamabad-and-peshawar">Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar</h1>
@@ -621,6 +576,7 @@ https://docs.openzeppelin.com/contracts/4.x/access-control</p>
 <p>Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the Book Blender by Example 2nd Edition https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561</p>
 
 <p>Assignment 5:</p>
+
 <p>Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book Blender by Example 2nd Edition https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561</p>
 
 <p>Assignment 6:</p>
@@ -629,29 +585,10 @@ https://docs.openzeppelin.com/contracts/4.x/access-control</p>
 
 
 
-      < class="site-footer">
+      <footer class="site-footer">
         
         <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
-            
-        </footer>
+      </footer>
     </main>
   </body>
 </html>
-
-
-
-  
-
-
-
-            
-    
-
-
-
-
-    
-
-
-
-    
