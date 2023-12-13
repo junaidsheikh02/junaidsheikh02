@@ -1,166 +1,111 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar
-Templates</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-</head>
-<body>
+list  of 1000 types extension programming languages  save as files such as  .html .css .py .c
+ChatGPT
+Creating a list of 1000 programming language extensions may be impractical and challenging since there aren't that many widely recognized and used programming languages. However, I can provide you with a list of some common and well-known programming language extensions. Keep in mind that this list will not reach 1000, but it will give you a variety of examples:
 
-<!-- Navbar (sit on top) -->
-<div class="w3-top">
-  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="#home" class="w3-bar-item w3-button"><b>BR</b> Architects</a>
-    <!-- Float links to the right. Hide them on small screens -->
-    <div class="w3-right w3-hide-small">
-      <a href="#projects" class="w3-bar-item w3-button">Projects</a>
-      <a href="#about" class="w3-bar-item w3-button">About</a>
-      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
-    </div>
-  </div>
-</div>
-
-<!-- Header -->
-<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="w3-image" src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="Architecture" width="1500" height="800">
-  <div class="w3-display-middle w3-margin-top w3-center">
-    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>BR</b></span> <span class="w3-hide-small w3-text-light-grey">Architects</span></h1>
-  </div>
-</header>
-
-<!-- Page content -->
-<div class="w3-content w3-padding" style="max-width:1564px">
-
-  <!-- Project Section -->
-  <div class="w3-container w3-padding-32" id="projects">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Projects</h3>
-  </div>
-
-  <div class="w3-row-padding">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Governor House</div>
-        <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="House" style="width:100%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Governor House</div>
-        <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="House" style="width:100%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Renovated</div>
-        <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="House" style="width:100%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Governor House</div>
-        <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="House" style="width:100%">
-      </div>
-    </div>
-  </div>
-
-  <div class="w3-row-padding">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Governor House</div>
-        <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="House" style="width:99%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Governor House</div>
-        <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="House" style="width:99%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Renovated</div>
-        <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="House" style="width:99%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Governor House</div>
-        <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="House" style="width:99%">
-      </div>
-    </div>
-  </div>
-
-  <!-- About Section -->
-  <div class="w3-container w3-padding-32" id="about">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-      laboris nisi ut aliquip ex ea commodo consequat.
-    </p>
-  </div>
-
-  <div class="w3-row-padding w3-grayscale">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="John" style="width:100%">
-      <h3>SIR ZIA KHAN & SIR QASIM ALI SHAH</h3>
-      <p class="w3-opacity">CEO & Founder</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="Jane" style="width:100%">
-      <h3>Jane Doe</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="Mike" style="width:100%">
-      <h3>Mike Ross</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" alt="Dan" style="width:100%">
-      <h3>Dan Star</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-    </div>
-  </div>
-
-  <!-- Contact Section -->
-  <div class="w3-container w3-padding-32" id="contact">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
-    <p>Lets get in touch and talk about your next project.</p>
-    <form action="/action_page.php" target="_blank">
-      <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Email" required name="Email">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required name="Subject">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required name="Comment">
-      <button class="w3-button w3-black w3-section" type="submit">
-        <i class="fa fa-paper-plane"></i> SEND MESSAGE
-      </button>
-    </form>
-  </div>
-  
-<!-- Image of location/map -->
-<div class="w3-container">
-  <img src="C:\Users\pc\OneDrive\Documents\public images\red-p-logo-text_dao_croped.png" class="w3-image" style="width:100%">
-</div>
-
-<!-- End page content -->
-</div>
+.html (Hypertext Markup Language)
+.css (Cascading Style Sheets)
+.js (JavaScript)
+.php (Hypertext Preprocessor)
+.py (Python)
+.java (Java)
+.c (C)
+.cpp (C++)
+.cs (C#)
+.rb (Ruby)
+.swift (Swift)
+.kt (Kotlin)
+.scala (Scala)
+.go (Go)
+.rust (Rust)
+.dart (Dart)
+.ts (TypeScript)
+.asm (Assembly)
+.pl (Perl)
+.lua (Lua)
+.r (R)
+.sh (Shell script)
+.bash (Bash script)
+.ps1 (PowerShell script)
+.jsx (React JavaScript)
+.tsx (React TypeScript)
+.yaml (YAML)
+.json (JavaScript Object Notation)
+.xml (eXtensible Markup Language)
+.sql (Structured Query Language)
+.vbs (VBScript)
+.f (Fortran)
+.dart (Dart)
+.groovy (Groovy)
+.jsp (JavaServer Pages)
+.pl (Prolog)
+.scm (Scheme)
+.lisp (Lisp)
+.erl (Erlang)
+.h (Header file)
+.m (Objective-C)
+.kt (Kotlin)
+.coffee (CoffeeScript)
+.vb (Visual Basic)
+.asmx (ASP.NET Web Service)
+.hbs (Handlebars)
+.ejs (Embedded JavaScript)
+.json5 (JSON5)
+.md (Markdown)
+.rmd (R Markdown)
+.yml (YAML)
+.toml (TOML)
+.ini (Initialization file)
+.cfg (Configuration file)
+.conf (Configuration file)
+.proto (Protocol Buffers)
+.avsc (Avro Schema)
+.graphql (GraphQL)
+.f90 (Fortran 90)
+.vb (Visual Basic)
+.dart (Dart)
+.scss (Sass)
+.less (Less)
+.styl (Stylus)
+.ejs (EJS)
+.pug (Pug)
+.hbs (Handlebars)
+.tpl (Template file)
+.liquid (Liquid)
+.jsp (JavaServer Pages)
+.twig (Twig)
+.ejs (Embedded JavaScript)
+.rs (Rust)
+.dart (Dart)
+.gohtml (Go HTML template)
+.ftl (FreeMarker template)
+.php (Hypertext Preprocessor)
+.aspx (Active Server Pages)
+.jsp (JavaServer Pages)
+.erb (Embedded Ruby)
+.jsx (React JavaScript)
+.tsx (React TypeScript)
+.svelte (Svelte)
+.liquid (Liquid)
+.ejs (Embedded JavaScript)
+.njk (Nunjucks)
+.twig (Twig)
+.handlebars (Handlebars)
+.php (Hypertext Preprocessor)
+.blade.php (Laravel Blade)
+.phtml (PHP HTML)
+.ctp (CakePHP template)
+.vue (Vue.js)
+.svelte (Svelte)
+.jade (Jade/Pug)
+.rhtml (Ruby HTML)
+.ejs (Embedded JavaScript)
+.mustache (Mustache)
+.haml (Haml)
+.mdx (MDX)
+This list includes a mix of web development, scripting, compiled, and markup languages. Adding 1000 extensions might be impractical, but I hope this diverse list is helpful!
 
 
-<!-- Footer -->
-<footer class="w3-center w3-black w3-padding-16">
-  <p>Powered by <a href="https://www.panaverse.co/" title="" target="_blank" class="w3-hover-text-green"><b><i><u>Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar
-</a></p></b></i></u>
-</footer>
 
-</body>
-</html>
+
+
+
