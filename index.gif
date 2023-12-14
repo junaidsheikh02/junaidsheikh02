@@ -1,111 +1,43 @@
-list  of 1000 types extension programming languages  save as files such as  .html .css .py .c
-ChatGPT
-Creating a list of 1000 programming language extensions may be impractical and challenging since there aren't that many widely recognized and used programming languages. However, I can provide you with a list of some common and well-known programming language extensions. Keep in mind that this list will not reach 1000, but it will give you a variety of examples:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Link to your external CSS file -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="nav-logo border">
+            <div class="logo"></div>
+        </div>
+        <div class="nav-address border">
+            <p class="add-first">Deliver to:</p>
+            <div class="add-icon">
+                <i class="fas fa-location-dot"></i>
+                <p class="add-second">Pakistan</p>
+            </div>
+        </div>
+        <select class="search-select"> 
+            <option>All</option>
+        </select>
+        <input placeholder="Search Amazon" class="search-input">
+        <div class="search-icon"> 
+            <i class="fas fa-search"></i>
+        </div>
+    </div>
+    <div class="nav-signin border">
+        <p><span>Hello,sign in</span></p>
+        <p class="nav-second"Account & Lists></p>
 
-.html (Hypertext Markup Language)
-.css (Cascading Style Sheets)
-.js (JavaScript)
-.php (Hypertext Preprocessor)
-.py (Python)
-.java (Java)
-.c (C)
-.cpp (C++)
-.cs (C#)
-.rb (Ruby)
-.swift (Swift)
-.kt (Kotlin)
-.scala (Scala)
-.go (Go)
-.rust (Rust)
-.dart (Dart)
-.ts (TypeScript)
-.asm (Assembly)
-.pl (Perl)
-.lua (Lua)
-.r (R)
-.sh (Shell script)
-.bash (Bash script)
-.ps1 (PowerShell script)
-.jsx (React JavaScript)
-.tsx (React TypeScript)
-.yaml (YAML)
-.json (JavaScript Object Notation)
-.xml (eXtensible Markup Language)
-.sql (Structured Query Language)
-.vbs (VBScript)
-.f (Fortran)
-.dart (Dart)
-.groovy (Groovy)
-.jsp (JavaServer Pages)
-.pl (Prolog)
-.scm (Scheme)
-.lisp (Lisp)
-.erl (Erlang)
-.h (Header file)
-.m (Objective-C)
-.kt (Kotlin)
-.coffee (CoffeeScript)
-.vb (Visual Basic)
-.asmx (ASP.NET Web Service)
-.hbs (Handlebars)
-.ejs (Embedded JavaScript)
-.json5 (JSON5)
-.md (Markdown)
-.rmd (R Markdown)
-.yml (YAML)
-.toml (TOML)
-.ini (Initialization file)
-.cfg (Configuration file)
-.conf (Configuration file)
-.proto (Protocol Buffers)
-.avsc (Avro Schema)
-.graphql (GraphQL)
-.f90 (Fortran 90)
-.vb (Visual Basic)
-.dart (Dart)
-.scss (Sass)
-.less (Less)
-.styl (Stylus)
-.ejs (EJS)
-.pug (Pug)
-.hbs (Handlebars)
-.tpl (Template file)
-.liquid (Liquid)
-.jsp (JavaServer Pages)
-.twig (Twig)
-.ejs (Embedded JavaScript)
-.rs (Rust)
-.dart (Dart)
-.gohtml (Go HTML template)
-.ftl (FreeMarker template)
-.php (Hypertext Preprocessor)
-.aspx (Active Server Pages)
-.jsp (JavaServer Pages)
-.erb (Embedded Ruby)
-.jsx (React JavaScript)
-.tsx (React TypeScript)
-.svelte (Svelte)
-.liquid (Liquid)
-.ejs (Embedded JavaScript)
-.njk (Nunjucks)
-.twig (Twig)
-.handlebars (Handlebars)
-.php (Hypertext Preprocessor)
-.blade.php (Laravel Blade)
-.phtml (PHP HTML)
-.ctp (CakePHP template)
-.vue (Vue.js)
-.svelte (Svelte)
-.jade (Jade/Pug)
-.rhtml (Ruby HTML)
-.ejs (Embedded JavaScript)
-.mustache (Mustache)
-.haml (Haml)
-.mdx (MDX)
-This list includes a mix of web development, scripting, compiled, and markup languages. Adding 1000 extensions might be impractical, but I hope this diverse list is helpful!
+        </div>
 
-
-
-
-
-
+        <div class="nav-return border">
+            <p><span>Returns</span></p>
+            <p class="nav-second" & Orders></p>
+    
+            </div>
+</body>
+</html>
